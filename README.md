@@ -8,5 +8,5 @@ Please see [installation instructions](https://k6.io/docs/getting-started/instal
 To run the load tests on a CI platform, we recommend using Docker.  
 You can run the same comand with Docker by
 ```
-$ docker run -i loadimpact/k6 run - < webserver.js
+$ docker run -i loadimpact/k6 run - < xxxxx.js
 ```
