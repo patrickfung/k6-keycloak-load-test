@@ -10,3 +10,7 @@ You can run the same comand with Docker by
 ```
 $ docker run -i loadimpact/k6 run - < xxxxx.js
 ```
+
+## SAMPLE
+1. Direct access the OpenID Conncet Document Page - webserver.js
+2. Direct grant access to obtain access token - direct-access-grant.js
